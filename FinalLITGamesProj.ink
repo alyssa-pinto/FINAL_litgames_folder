@@ -8,7 +8,7 @@ Welcome to *Combat Cupcake Chef!* :
 The fiercest, frostiest, most legally questionable cupcake competition in the world.  
 Race to get your cupcakes out of the oven and your behind to the judge’s panel in time.  
 
-Don’t forget to live well and prosper. There’s always money in the banana stand. May the odds be ever in your flavor. Time’s a tickin’!
+Don’t forget to eat well and prosper. There’s always money in the banana stand. May the odds be ever in your flavor. Time’s a tickin’!
 
 -> choose_flavor
 
